@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 435.1999816894531 164" width="435.1999816894531" height="164">
+  <!-- svg-source:excalidraw -->
+  <!-- payload-type:application/vnd.excalidraw+json --><!-- payload-version:2 --><!-- payload-start -->eyJ2ZXJzaW9uIjoiMSIsImVuY29kaW5nIjoiYnN0cmluZyIsImNvbXByZXNzZWQiOnRydWUsImVuY29kZWQiOiJ4nM1VTW/UMFx1MDAxML33V0TplW7tJM46vdFSllx1MDAxZUAqi6BcdTAwMDJxcFx1MDAxM29irWtHtver1f53Jt4lzm5B0Fx1MDAwM1x1MDAxMjlEyrxcdTAwMTnP85tn5+kkimK3aXl8XHUwMDExxXxdMikqw1bxqy6+5MZcbq1cdTAwMDBK/LfVXHUwMDBiU/rMxrnWXpyfs7ZcdTAwMWTVwt1rPVx1MDAxZpX6YVfGJX/gyllI/Fx1MDAwNt9R9OTfg0aGl46pWnJf4KHQi+THwVx1MDAwZlr5tjlcdTAwMWFcdTAwMTe4KMaoT1x1MDAxMPZccnRzvFx1MDAwMnTGpOVcdTAwMDGpfCNzd1naj5OzyaRUi0dNb12qQtOZkHLqNnK3J1Y2XHUwMDBiM6BkndFz/kVUrlx1MDAwMVx1MDAxY1x1MDAxZsX7OqtBs1Bl9KJuXHUwMDE0t/agRresXHUwMDE0btPFUKC/0+BcIlxukTV8pVx1MDAxNI0oQlxi01x1MDAxNCOS5UWP+nqKRzmgKMcoJZjkyVx1MDAxMbErLbXpiJ1cIv9cdTAwMDRq96yc18BPVX2OM0zZllx1MDAxOZhXyFvtt5xhMlx1MDAwMr1cdTAwMGKKc1pkJFxy22m4qFx1MDAxYtexybLQnvs5YJTgMU7zXHUwMDAxsa5pe1N5R3xcdTAwMWYqpaq9Uj8tXHUwMDEyTJLuI9tAv8u/XHUwMDFlmCsstWgrtnNcdTAwMDFQXHUwMDA1SVCWp1lKe1xcXG41XHUwMDA3UC2kXGYxXc6DcU5cdTAwMDa9nvnV8bX7lVWT31pcdTAwMTWmXFzgjFx1MDAxNsXfe3WG7+x7fn1PzmbLq7urz7fvkuXX/92r2WDKXUVCyD+zY5Imz1xymJBj/41cdE3zNMf0XHUwMDA19jswxot8RlxuSl7iszBPrdxUPHaSJugg+pY9XGK5OVx1MDAxOIk3IOhz3d/Q0Uq4JtrfvUNNLVx1MDAwN1x1MDAxMt6C9KD8tVx1MDAxNHXn2Vjy2aGZnYBFe9jpNqAl0GGwnLmpjreljaiFYvLTXHUwMDFmqO1cdTAwMGVcdTAwMTa8vYox/DGmXHUwMDBlNOzPPExHVHshQoN4Kfjq8rlBTmf+6Vb1h7U7XHUwMDE23F8g25PtXHUwMDBm35nAeiJ9<!-- payload-end -->
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@0.14.2/dist/excalidraw-assets/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://unpkg.com/@excalidraw/excalidraw@0.14.2/dist/excalidraw-assets/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="435.1999816894531" height="164" fill="#ffffff"/><g stroke-linecap="round" transform="translate(10 10) rotate(0 207.59999084472656 72)"><path d="M32 0 M32 0 C102.25 -0.32, 174.32 0.09, 383.2 0 M32 0 C165.25 0.17, 297.78 1.14, 383.2 0 M383.2 0 C402.55 1.42, 415.01 12.54, 415.2 32 M383.2 0 C404.54 0, 413.82 10.17, 415.2 32 M415.2 32 C413.37 55.66, 413.38 73.96, 415.2 112 M415.2 32 C414.12 61.2, 414.21 90.64, 415.2 112 M415.2 112 C414.99 133.49, 403.85 142.85, 383.2 144 M415.2 112 C416.79 131.57, 403.45 145.26, 383.2 144 M383.2 144 C258.42 145.2, 133.83 145.54, 32 144 M383.2 144 C248.89 142.61, 113.86 142.34, 32 144 M32 144 C11.01 144.64, 1.45 133.76, 0 112 M32 144 C11.87 145.91, -0.1 133.21, 0 112 M0 112 C-0.08 91.35, -0.49 68.98, 0 32 M0 112 C0.07 88.98, -0.73 63.65, 0 32 M0 32 C0.68 10.86, 9.65 1.85, 32 0 M0 32 C-1 11.98, 11.24 -2.08, 32 0" stroke="#000000" stroke-width="1" fill="none"/></g><g transform="translate(91.19998168945312 83.39999389648438) rotate(0 116 12.5)"><text x="0" y="18" font-family="Virgil, Segoe UI Emoji" font-size="20px" fill="#000000" text-anchor="start" style="white-space: pre;" direction="ltr">Excalidraw with gitbook</text></g></svg>
